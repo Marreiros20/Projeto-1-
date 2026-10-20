@@ -1,5 +1,5 @@
 # Projeto-1- 
-O meuprimeiro projeto
+O meu primeiro projeto
 Este repositório foi criado no âmbito da disciplina de PSI.
 Autor:
 Nome: João Marreiros
